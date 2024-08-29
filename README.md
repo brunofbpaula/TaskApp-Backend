@@ -17,9 +17,9 @@ Gabriel Francisco Lobo (RM99708)
 
 <h2 id="started">🚀 Getting started</h2>
 
-Here you describe how to run your project locally
+To launch this app, you're going to need to also start its frontend (it's the same process). You can find it [here](https://github.com/brunofbpaula/TaskApp-Front).
 
-<h3>Pre</h3>
+<h3>Prerequisites</h3>
 
 - NodeJS
 - Git
