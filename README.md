@@ -57,3 +57,11 @@ List of the main routes.
 | <kbd>GET /tarefas/id</kbd>     | retrieves a task
 | <kbd>PUT /tarefas/id</kbd>     | updates a task
 | <kbd>DELETE /tarefas/id</kbd>     | deletes a task
+
+
+<h2 id="tests">Insomnia</h2>
+
+<p>
+    <h3>JWT Token</h3>
+    <img src="tests/login.png" alt="test" width="400px">
+</p>
